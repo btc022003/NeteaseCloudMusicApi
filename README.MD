@@ -20,7 +20,6 @@
 
 ## 功能特性
 
-
 1. 登录
 2. 刷新登录
 3. 发送验证码
@@ -98,7 +97,7 @@
 75. 付费精选接口
 76. 音乐是否可用检查接口
 77. 登录状态
-78. 获取视频数据
+78. 获取视频播放地址
 79. 发送/删除评论
 80. 热门评论
 81. 视频评论
@@ -136,8 +135,20 @@
 113. 云盘数据详情
 114. 私信内容
 115. 我的数字专辑
-116. batch批量请求接口
-
+116. batch 批量请求接口
+117. 获取视频标签列表
+118. 全部 mv
+119. 网易出品 mv
+120. 收藏/取消收藏专辑
+121. 专辑动态信息
+122. 热搜列表(详细)
+123. 更换绑定手机
+124. 检测手机号码是否已注册
+125. 初始化昵称
+126. 更新歌单描述
+127. 更新歌单名
+128. 更新歌单标签
+129. 默认搜索关键词
 
 ## 环境要求
 
@@ -188,8 +199,8 @@ $ npm test
 ![单元测试](https://raw.githubusercontent.com/Binaryify/NeteaseCloudMusicApi/master/static/screenshot2.png)
 
 ## 贡献者
-![](https://opencollective.com/NeteaseCloudMusicApi/contributors.svg?width=890)
 
+![](https://opencollective.com/NeteaseCloudMusicApi/contributors.svg?width=890)
 
 ## License
 
